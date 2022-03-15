@@ -14,5 +14,9 @@ C tutorial covers basic concepts, data types, arrays, pointers, conditional stat
 * Collaborators
 * Git Architecture
 * Git Commands
+## NDG LINUX UNHATCHED - CISCO NETWORKING ACADEMY CERTIFICATE
+* Linux is everywhere! It runs the Internet and is in products ranging from spacecraft, to factories, cars, appliances, and the mobile phone in your pocket. Linux knowledge is a life-changing skill upgrade that will make you a wizard and boost your value as an IT professional.
+
+
 
 
