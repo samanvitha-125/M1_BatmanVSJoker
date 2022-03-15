@@ -8,7 +8,7 @@ C tutorial covers basic concepts, data types, arrays, pointers, conditional stat
 
 ➤ In this Git tutorial, you’ll learn about the workflow of Git, its commands, branches, and various demos. The tutorial will also help you learn about several features of Git like backups, scalability, tracking history, and even help you prepare for a Git interview.
 
-## Skills Covered
+### Skills Covered
 * Version Control System
 * Three-stage workflow
 * Collaborators
