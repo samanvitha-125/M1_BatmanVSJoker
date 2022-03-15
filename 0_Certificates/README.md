@@ -1,0 +1,18 @@
+# CERTIFICATES
+## C PROGRAMMING - SOLO LEARN CERTIFICATE
+C tutorial covers basic concepts, data types, arrays, pointers, conditional statements, loops, functions, strings, structures, unions, and much more.
+## GIT LEARNING - SIMPLILEARN CERTIFICATE
+➤Git is one of the most prominent DevOps tools used for source code management.
+
+➤ It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
+
+➤ In this Git tutorial, you’ll learn about the workflow of Git, its commands, branches, and various demos. The tutorial will also help you learn about several features of Git like backups, scalability, tracking history, and even help you prepare for a Git interview.
+
+## Skills Covered
+* Version Control System
+* Three-stage workflow
+* Collaborators
+* Git Architecture
+* Git Commands
+
+
