@@ -7,7 +7,7 @@
 * The goal of the game is for players to position their marks so that they make a continuous line of four cells vertically, horizontally, or diagonally. 
 * An opponent can prevent a win by blocking the completion of the opponent's line.
 # SPACE AND TIME COMPLEXITY :
-# TIME COMPLEXITY:
+# TIME COMPLEXITY :
 * O(1) time complexity that requires O(n) space complexity. it is simpler to write, and debug and more importantly, there are no loops!
 # SPACE COMPLEXITY :
 * Combinatorial game theory has several ways of measuring game complexity.
@@ -16,7 +16,7 @@
 * Decision complexity of a game is the number of leaf nodes in the smallest decision tree that establishes the value of the initial position.
 * The game-tree complexity of a game is the number of leaf nodes in the smallest full-width decision tree that establishes the value of the initial position.
 * O(n) in space complexity.
-![5*5 GAME]
-
-
+# GAME DESIGN TYPE : 
+![An-5-5-board](https://user-images.githubusercontent.com/62429376/158420699-7ac54a51-717a-417f-8d99-61b849fa0fb6.png)
+# 
 
