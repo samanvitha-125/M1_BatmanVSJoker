@@ -63,6 +63,30 @@
 
 * They can install the game on the mobile or laptop.
 
+# High Level Requirements:
+
+| ID | Description | Status |
+| ---- | ------------------- | ---- |
+| HR01 | Player should be able to select the cities | Implemented |
+| HR02 | Player should be able to select the bombs | Implemented |
+| HR03 | Player should be able to match the bombs | Implemented |
+| HR04 | Player should have a choice to select bombs | Implemented |
+| HR05 | Player should be able to end the game whenever wanted | Future |
+| HR06 | Possibility of playing with more than 2 players  | future |
+| HR07 | Data should not be lost in case of faliure | Implemented |
+
+## Low level Requirements:
+
+| ID | Description |	Status(Implemented/Future) |
+| ---- | -------------- | ----- |
+| LR01 | Timed game | Future |
+| LR02 | The moves to be undone | Future |
+| LR03 | Can a third person spectate the game | Future |
+| LR04 |	Will any statistics be stored for user  |	Future |
+| LR05 |	Will there be any rating change while playing a game |	Future |
+| LR06 |	Can any tournaments be conducted in the game | Future |
+| LR07 |	Can any other technologies be used in the game | Future |
+
 ## Best Methods To Be Followed
 
 * Used functions to decrease dependency on main function
