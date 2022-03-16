@@ -75,7 +75,7 @@
 | HR06 | Possibility of playing with more than 2 players  | future |
 | HR07 | Data should not be lost in case of faliure | Implemented |
 
-## Low level Requirements:
+## Low Level Requirements:
 
 | ID | Description |	Status(Implemented/Future) |
 | ---- | -------------- | ----- |
