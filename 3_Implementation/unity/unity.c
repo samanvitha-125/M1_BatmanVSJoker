@@ -270,8 +270,8 @@ void UnityPrintNumberUnsigned(const UNITY_UINT number)
         divisor /= 10;
     } while (divisor > 0);
 }
-
 /*-----------------------------------------------*/
+/*
 void UnityPrintNumberHex(const UNITY_UINT number, const char nibbles_to_print)
 {
     int nibble;
@@ -296,7 +296,7 @@ void UnityPrintNumberHex(const UNITY_UINT number, const char nibbles_to_print)
         }
     }
 }
-
+*/
 /*-----------------------------------------------*/
 void UnityPrintMask(const UNITY_UINT mask, const UNITY_UINT number)
 {
@@ -1389,8 +1389,8 @@ void UnityAssertNumbersArrayWithin(const UNITY_UINT delta,
         actual = (UNITY_INTERNAL_PTR)((const char*)actual + increment);
     }
 }
-
 /*-----------------------------------------------*/
+/*
 void UnityAssertEqualString(const char* expected,
                             const char* actual,
                             const char* msg,
@@ -1400,7 +1400,7 @@ void UnityAssertEqualString(const char* expected,
 
     RETURN_IF_FAIL_OR_IGNORE;
 
-    /* if both pointers not null compare the strings */
+    /* if both pointers not null compare the strings 
     if (expected && actual)
     {
         for (i = 0; expected[i] || actual[i]; i++)
@@ -1412,8 +1412,8 @@ void UnityAssertEqualString(const char* expected,
             }
         }
     }
-    else
-    { /* handle case of one pointers being null (if both null, test should pass) */
+    else*/
+    { /* handle case of one pointers being null (if both null, test should pass)
         if (expected != actual)
         {
             Unity.CurrentTestFailed = 1;
@@ -1428,8 +1428,8 @@ void UnityAssertEqualString(const char* expected,
         UNITY_FAIL_AND_BAIL;
     }
 }
-
-/*-----------------------------------------------*/
+*/
+/*----------------------------------------------
 void UnityAssertEqualStringLen(const char* expected,
                                const char* actual,
                                const UNITY_UINT32 length,
@@ -1440,7 +1440,7 @@ void UnityAssertEqualStringLen(const char* expected,
 
     RETURN_IF_FAIL_OR_IGNORE;
 
-    /* if both pointers not null compare the strings */
+    /* if both pointers not null compare the strings 
     if (expected && actual)
     {
         for (i = 0; (i < length) && (expected[i] || actual[i]); i++)
@@ -1453,7 +1453,7 @@ void UnityAssertEqualStringLen(const char* expected,
         }
     }
     else
-    { /* handle case of one pointers being null (if both null, test should pass) */
+    { /* handle case of one pointers being null (if both null, test should pass) 
         if (expected != actual)
         {
             Unity.CurrentTestFailed = 1;
@@ -1469,7 +1469,7 @@ void UnityAssertEqualStringLen(const char* expected,
     }
 }
 
-/*-----------------------------------------------*/
+/*-----------------------------------------------
 void UnityAssertEqualStringArray(UNITY_INTERNAL_PTR expected,
                                  const char** actual,
                                  const UNITY_UINT32 num_elements,
@@ -1484,7 +1484,7 @@ void UnityAssertEqualStringArray(UNITY_INTERNAL_PTR expected,
 
     RETURN_IF_FAIL_OR_IGNORE;
 
-    /* if no elements, it's an error */
+    /* if no elements, it's an error 
     if (num_elements == 0)
     {
         UnityPrintPointlessAndBail();
@@ -1492,7 +1492,7 @@ void UnityAssertEqualStringArray(UNITY_INTERNAL_PTR expected,
 
     if ((const void*)expected == (const void*)actual)
     {
-        return; /* Both are NULL or same pointer */
+        return; /* Both are NULL or same pointer 
     }
 
     if (UnityIsOneArrayNull((UNITY_INTERNAL_PTR)expected, (UNITY_INTERNAL_PTR)actual, lineNumber, msg))
@@ -1513,7 +1513,6 @@ void UnityAssertEqualStringArray(UNITY_INTERNAL_PTR expected,
             expd = ((const char* const*)expected)[j];
         }
 
-        /* if both pointers not null compare the strings */
         if (expd && act)
         {
             for (i = 0; expd[i] || act[i]; i++)
@@ -1526,7 +1525,7 @@ void UnityAssertEqualStringArray(UNITY_INTERNAL_PTR expected,
             }
         }
         else
-        { /* handle case of one pointers being null (if both null, test should pass) */
+        { /* handle case of one pointers being null (if both null, test should pass) 
             if (expd != act)
             {
                 Unity.CurrentTestFailed = 1;
@@ -1547,8 +1546,7 @@ void UnityAssertEqualStringArray(UNITY_INTERNAL_PTR expected,
         }
     } while (++j < num_elements);
 }
-
-/*-----------------------------------------------*/
+	    
 void UnityAssertEqualMemory(UNITY_INTERNAL_PTR expected,
                             UNITY_INTERNAL_PTR actual,
                             const UNITY_UINT32 length,
@@ -1571,7 +1569,7 @@ void UnityAssertEqualMemory(UNITY_INTERNAL_PTR expected,
 
     if (expected == actual)
     {
-        return; /* Both are NULL or same pointer */
+        return; Both are NULL or same pointer 
     }
 
     if (UnityIsOneArrayNull(expected, actual, lineNumber, msg))
