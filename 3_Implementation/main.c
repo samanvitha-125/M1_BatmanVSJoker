@@ -85,7 +85,6 @@ do
   printf("invalid move,you must have entered values other than [a to y]\n");
   printf("or planted bomb on the same building twice\n");
   printf("please be careful\n");
-  pa--;
   return 0;
   }
   i=win_game();
