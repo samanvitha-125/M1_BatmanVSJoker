@@ -31,7 +31,7 @@
 <a href="https://app.codiga.io/public/user/github/samanvitha-125">
    <img src="https://api.codiga.io/public/badge/user/github/samanvitha-125?style=light" alt="codiga badge" /></a>
 
-![Screenshot (67)](https://user-images.githubusercontent.com/62429376/159708630-9ae0ab4a-87ec-4f5e-a24a-f0a3c9dd57a2.png)
+![code inspector](https://user-images.githubusercontent.com/62429376/160266487-aca9f457-befe-4dc3-a6e3-1ab6b5b1b4f3.png)
 
 ## Folder Structure
 
@@ -44,6 +44,12 @@
 | 5_Report |	Report of the whole project |
 | 6_Images | Images of the Output |
 
+# Contributors List and Summary 
+
+* Some Test Cases are similar functions and are merged
+| Candidate Id | Name | Features | Issues Raised | Issues Resolved | Number of Test Cases | Test Case Pass |
+| --- | --- | --- | --- | --- | --- | --- |
+| 10036 | Padhuri Samanvitha Reddy | All | 1 | 1 | 5 | 5 | 
 # References
 
 * You tube C programming learning 
