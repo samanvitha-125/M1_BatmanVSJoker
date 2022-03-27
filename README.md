@@ -48,6 +48,7 @@
 
 * Some Test Cases are similar functions and are merged
 
+
 | Candidate Id | Name | Features | Issues Raised | Issues Resolved | Number of Test Cases | Test Case Pass |
 | ------------ | ---- | -------- | ------------- | --------------- | -------------------- | -------------- |
 | 10036 | Padhuri Samanvitha Reddy | All | 1 | 1 | 5 | 5 | 
