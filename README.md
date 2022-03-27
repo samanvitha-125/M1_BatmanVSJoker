@@ -20,9 +20,14 @@
 
 # Codacy and Codiga Badges 
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d1764ad9d39945bb93a9f4653bec8e77)](https://www.codacy.com/gh/samanvitha-125/M1_BatmanVsJoker_Game/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=samanvitha-125/M1_BatmanVsJoker_Game&amp;utm_campaign=Badge_Grade) ![Codiga Score](https://api.codiga.io/project/32087/score/svg) ![Codiga_Badge](https://api.codiga.io/project/32087/status/svg)
+[![Codacy grade](https://app.codacy.com/project/badge/Grade/d1764ad9d39945bb93a9f4653bec8e77)](https://www.codacy.com/gh/samanvitha-125/M1_BatmanVsJoker_Game/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=samanvitha-125/M1_BatmanVsJoker_Game&amp;utm_campaign=Badge_Grade) !
+
+[Codiga QualityScore](https://api.codiga.io/project/32087/score/svg) ![Codiga_Grade](https://api.codiga.io/project/32087/status/svg)
 
 ## Code Inspector
+
+<a href="https://app.codiga.io/public/user/github/samanvitha-125">
+   <img src="https://api.codiga.io/public/badge/user/github/samanvitha-125?style=light" alt="codiga badge" /></a>
 
 ![Screenshot (67)](https://user-images.githubusercontent.com/62429376/159708630-9ae0ab4a-87ec-4f5e-a24a-f0a3c9dd57a2.png)
 
