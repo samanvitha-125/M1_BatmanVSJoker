@@ -12,13 +12,13 @@
 * The goal of the game is for players to position their marks so that they make a continuous line of four cells vertically, horizontally, or diagonally. 
 * An opponent can prevent a win by blocking the completion of the opponent's line.
 
-# SDLC Activity Based Learning :
+## SDLC Activity Based Learning :
 
 | Static Check | Valgrind | Unit Testing | Dynamic Check | Unity Testing | Build Linux| Build Windows |
 | --- | --- | --- | --- | --- | --- | --- |
 | [![Static Check](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Static.yml/badge.svg)](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Static.yml) [![Code Quality - Static Code - Cppcheck](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Code%20Quality%20Static%20Code%20-%20Cppcheck.yml/badge.svg)](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Code%20Quality%20Static%20Code%20-%20Cppcheck.yml) | [![Valgrind](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Valgrind.yml) | [![Unit Testing - UNity](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/UNity.yml/badge.svg)](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/UNity.yml) | [![Contribution Check - Git Inspector](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/vs.yml/badge.svg)](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/vs.yml) [![Cpp-Check](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Cpp.yml/badge.svg)](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Cpp.yml) | [![Unity Testing](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Test.yml/badge.svg)](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Test.yml) | [![Build LinuX](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Linux.yml/badge.svg)](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Linux.yml) | [![Build-Windows](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Windows.yml/badge.svg)](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/Windows.yml) [![CI](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/C-cpp.yml/badge.svg)](https://github.com/samanvitha-125/M1_BatmanVsJoker_Game/actions/workflows/C-cpp.yml) |
 
-# Codacy and Codiga Badges 
+## Codacy and Codiga Badges 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d1764ad9d39945bb93a9f4653bec8e77)](https://www.codacy.com/gh/samanvitha-125/M1_BatmanVsJoker_Game/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=samanvitha-125/M1_BatmanVsJoker_Game&amp;utm_campaign=Badge_Grade)
 
@@ -44,7 +44,7 @@
 | 5_Report |	Report of the whole project |
 | 6_Images | Images of the Output |
 
-# Contributors List and Summary 
+## Contributors List and Summary 
 
 * Some Test Cases are similar functions and are merged
 
@@ -53,7 +53,7 @@
 | ------------ | ---- | -------- | ------------- | --------------- | -------------------- | -------------- |
 | 10036 | Padhuri Samanvitha Reddy | All | 1 | 1 | 5 | 5 | 
 
-# References
+## References
 
 * You tube C programming learning 
 * Greeks for Greeks 
