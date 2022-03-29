@@ -56,5 +56,6 @@
 ## References
 
 * You tube C programming learning 
-* Greeks for Greeks 
+* Geeks for Geeks 
 * Reference from C text books
+
