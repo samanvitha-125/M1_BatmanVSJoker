@@ -31,7 +31,7 @@
 <a href="https://app.codiga.io/public/user/github/samanvitha-125">
    <img src="https://api.codiga.io/public/badge/user/github/samanvitha-125?style=light" alt="codiga badge" /></a>
 
-![code inspector](https://user-images.githubusercontent.com/62429376/160266487-aca9f457-befe-4dc3-a6e3-1ab6b5b1b4f3.png)
+![code inspector](https://user-images.githubusercontent.com/62429376/160532858-68ffacf1-0e78-4b4b-b3b9-9b08ee3730a2.png)
 
 ## Folder Structure
 
