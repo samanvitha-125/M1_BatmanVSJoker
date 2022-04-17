@@ -90,7 +90,7 @@
 ## Best Methods To Be Followed
 
 * Used functions to decrease dependency on main function
-* Used structures and arrays to accept the inputs from user and store the values which helped in creating easy design of Employee management system.
+* Used structures and arrays to accept the inputs from user and store the values which helped in creating easy design of the game.
 * Printf statements have been placed only wherever necessary to avoid confusions
 * Created header file so that the fuctions can be used else where ever required without any difficulty
 * Unit testing is done to avoid any computational errors.
